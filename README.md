@@ -9,6 +9,6 @@ Projeto do curso de Design Patterns com Java. Envia notificações de promoçõe
 
 ## Como executar
 ```bash
-javac -d out src/*.java
+javac -d out src/CanalNotificacaoFacade.java src/GerenciadorNotificacoes.java src/Main.java src/NotificacaoEmail.java src/NotificacaoPush.java src/NotificacaoSMS.java src/NotificacaoStrategy.java src/Promocao.java
 java -cp out Main
 ```
