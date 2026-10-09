@@ -1,6 +1,6 @@
 # Sistema de Notificações de Promoção
 
-Projeto do curso de Design Patterns com Java. Envia notificações de promoções por e-mail, SMS e push.
+Projeto do curso de Design Patterns com Java. Simula o envio de notificações de promoções por e-mail, SMS e push.
 
 ## Padrões utilizados
 - **Strategy**: `NotificacaoStrategy` com as implementações `NotificacaoEmail`, `NotificacaoSMS` e `NotificacaoPush`.
