@@ -1,5 +1,7 @@
 # Sistema de Notificações de Promoção
 
+> **Demo project.** Built for the Design Patterns with Java course (DIO). Uses sample data. SMS and push channels are simulated and not connected to real providers.
+
 Projeto do curso de Design Patterns com Java. Simula o envio de notificações de promoções por e-mail, SMS e push.
 
 ## Padrões utilizados
